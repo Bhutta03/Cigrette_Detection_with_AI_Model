@@ -3,6 +3,6 @@ This project consists of real-time image classification using a webcam. The mode
 
 Please note that the code references a specific model hosted at the provided URL. If you plan to use this code, you'll need to make sure that the model URL is correct and accessible. Additionally, it's important to have the required TensorFlow.js and Teachable Machine libraries available.
 
-Prototype of this is [here](https://khubaibishtiaq.000webhostapp.com/)
-Email: ali@gmail.com
+Prototype of this is [here](https://khubaibishtiaq.000webhostapp.com/) 
+Email: ali@gmail.com 
 Password: 123
